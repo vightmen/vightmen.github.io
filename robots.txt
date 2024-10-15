@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vightmen.github.io/sitemap.html.gz
+Sitemap: https://vightmen.github.io/app/sitemap.html.gz
+Sitemap: https://vightmen.github.io/assets/sitemap.html.gz
+Sitemap: https://vightmen.github.io/css/sitemap.html.gz
+Sitemap: https://vightmen.github.io/includes/sitemap.html.gz
+Sitemap: https://vightmen.github.io/item/sitemap.html.gz
+Sitemap: https://vightmen.github.io/src/sitemap.html.gz
